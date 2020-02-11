@@ -1,0 +1,2 @@
+# spoluzaci
+ info o spoluzacich
